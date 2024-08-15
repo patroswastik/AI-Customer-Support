@@ -4,6 +4,8 @@
   format: \
   GOOGLE_API_KEY="enter your key" \
   Add other if you use them
+3. Run the backend by running the app.py file
+4. cd in the client folder run this at the terminal to start the development frontend environment: ```npm run dev```
 # Notes
 I've put some reference links here: 
 1. Setting Up sub workspace in VS Code	https://github.com/microsoft/vscode-python/wiki/Mono-Repo-Set%E2%80%90up-Guide	
