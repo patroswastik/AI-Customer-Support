@@ -1,0 +1,3 @@
+# Ignore environment variables
+server/.env
+server/.venv
